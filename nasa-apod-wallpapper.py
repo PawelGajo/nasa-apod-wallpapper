@@ -4,7 +4,7 @@ from pathlib import Path
 
 
 # destination path with name for downloaded img
-imgDestinationPath = Path().absolute() / 'images' / 'apod.jpg'
+imgDestinationPath = Path().absolute() / 'images' / 'apod.png'
 
 # #set your API key from https://api.nasa.gov/ . Its DEMO_KEY by default
 nasaApi = NasaApi()

@@ -35,4 +35,4 @@ from utils import setWallpaper
 setWallpaper(imgPath)
 ```
 
-Setting image as wallpapper works on Win10.
+Setting image as wallpapper works on Windows.
